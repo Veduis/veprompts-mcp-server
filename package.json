@@ -1,6 +1,7 @@
 {
   "name": "veprompts-mcp-server",
-  "version": "1.1.1",
+  "version": "1.1.2",
+  "mcpName": "io.github.Veduis/veprompts-mcp-server",
   "description": "MCP server exposing the VePrompts library: search, prompts, skills, MCP servers, comparisons, frameworks, glossary, and AI model pricing.",
   "author": "VePrompts / Veduis (https://veprompts.com/)",
   "homepage": "https://veprompts.com/",
